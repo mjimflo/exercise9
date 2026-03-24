@@ -7,4 +7,6 @@ layout: default
 
 # Howdy!
 
+<img class="img-fluid" src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  />
+
 Welcome to my site!
