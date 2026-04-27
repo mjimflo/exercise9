@@ -9,16 +9,17 @@ In the Jupyter Notebook, data was used from survey_izzi.csv which contained 534 
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="./static/imgs/pre_lecture_videos.png" alt="Image of histogram of pre lecture videos. "  width="500"/>
+<img src="./static/imgs/pre_lecture_videos.png" alt="Image of histogram of pre lecture videos. "  width="350"/>
 
 Figure 1.1: Histogram of pre_lecutre_videos variable
 
-<img src="./static/imgs/ls_effective.png" alt="Image of histogram of pre lecture videos. "  width="500"/>
+<img src="./static/imgs/ls_effective.png" alt="Image of histogram of lesson videos.. "  width="350"/>
 
-Figure 1.2: Histogram of ls_effective variable
+  Figure 1.2: Histogram of ls_effective variable
 
-<img src="./static/imgs/both_variables.png" alt="Image of histogram of pre lecture videos. "  width="500"/>
-Figure 1.3: Histogram of both pre_lecture_videos and ls_effective variables
+<img src="./static/imgs/Both_variables.png" alt="Image of histogram of both pre lecture and lesson videos. "  width="350"/>
+
+  Figure 1.3: Histogram of both pre_lecture_videos and ls_effective variables
 
 ## Conclusion 
 
