@@ -2,7 +2,7 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-<body style = "background-color: #d2aeda;"></body>
+<body style = "background-color: #98e4f6;"></body>
 ## Summary of Analysis
 
 In the Jupyter Notebook, data was used from survey_izzi.csv which contained 534 responses and 44 variables. Using the head function we were able to create a table of all the columns with responses. We then selected two variables to focus on: pre_lecture_videos and ls_effective. Both columns held string responses so we used the function convert_columns_to_ints to convert the rating into integers. We then counted the frequency of ratings. In pre_lecture_videos a rating of 7 (strongly agree pre_lec videos prepare students)  was most common with 179 responses and for ls_effective 7 (strongly agree lesson videos are effective to learn course material) was also the most common. 3 visualizations were produced. Figure 1.1 is a histogram of the ratings of pre_lecture_videos and its count. Figure 1.2 is a histogram of ls_effective, and Figure 1.3 is a histogram both of them combined. All visualization further confirmed the usefulness of videos. 
