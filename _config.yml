@@ -23,7 +23,7 @@ email: mjimflo@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Website created for Exercise 9.
 baseurl: "exercise9" # the subpath of your site, e.g. /blog
-url: "mjimflo.git.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mjimflo.github.io/exercise9" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
